@@ -1,4 +1,4 @@
-# projeto gestão de dados Jomap 2023
+# Projeto gestão de dados Jomap 2023
 
 
 Projeto implementado para ilustrar otmizações 3D  em javascript e aprendizado sobre as tecnologias envolvidas no game,
