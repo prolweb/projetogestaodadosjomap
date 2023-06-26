@@ -1,5 +1,5 @@
-# projetogestaodadosjomap
-Fork js13kgames, A short 3D action game competition.
+# projeto gestão de dados Jomap 2023
+Fork's js13kgames, A short 3D action game competition.
 
 Projeto implementado para ilustrar otmizações 3D  em javascript e aprendizado sobre as tecnologias envolvidas no game,
 desde o processo de criação ate a hospedagem.
